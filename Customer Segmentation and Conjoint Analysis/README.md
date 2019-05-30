@@ -11,7 +11,7 @@ an excel file.
 - Used Excel to create a final dataset and analyze it (using VLOOKUP/INDEX-MATCH, pivot tables,
 conditional formatting and other formulas and features if necessary).<br>
 
-Click <a href="https://github.com/Vazgen-Tadevosyan/Business_Analytics/blob/master/Conjoint_Analysis/task1.ipynb"> here</a>
+Click <a href="https://github.com/Vazgen-Tadevosyan/Business_Analytics/blob/master/Customer%20Segmentation%20and%20Conjoint%20Analysis/task1.ipynb"> here</a>
 <h3>Conjoint Analysis</h3>
 Coefficients of the regression model ran on ice-cream survey data is provided in the
 ice.xlsx. The attributes are ice-cream Flavor (5 levels), Packaging (3), Light (2) and Organic (2). Used the already
